@@ -38,4 +38,4 @@ BossFight
 Анимация Бойзов
 
 
-##UnityPlayer.rar нужно разархивировать и оставить в одной папке с exeшником,UnityCrashHandler64, папками MonoBleedingEdge и wahaGame_Data
+## UnityPlayer.rar нужно разархивировать и оставить в одной папке с exeшником,UnityCrashHandler64, папками MonoBleedingEdge и wahaGame_Data
